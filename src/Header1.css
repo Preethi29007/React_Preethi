@@ -1,0 +1,32 @@
+.Header {
+  background-color: #8e7f7f;
+  padding: 10px 0;
+}
+
+.menuHeader {
+  display: flex;
+  justify-content: center;
+}
+
+.ulHeader {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+.ulHeader li {
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.ulHeader li:hover {
+  color: #00bcd4; 
+}
+
+.ulHeader img {
+  margin-right: 15px;
+}

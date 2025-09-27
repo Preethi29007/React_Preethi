@@ -1,0 +1,29 @@
+.Footer {
+  background-color: #222;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer-links ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 10px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.footer-links li {
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.footer-links li:hover {
+  color: #00bcd4; /* highlight like header */
+}
+
+.footer-copy {
+  font-size: 13px;
+  color: #bbb;
+}
