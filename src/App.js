@@ -82,9 +82,9 @@
 
 // export default App;
 
-
-import ProductCart from './Product/ProductCart';
-import Cart from './Product/Cart';
+//This code is updated from vs code to App.js
+//import ProductCart from './Product/ProductCart';
+//import Cart from './Product/Cart';
 import './index.css';
 import {Provider} from 'react-redux';
 import { store } from './storeRedux';
